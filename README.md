@@ -3,7 +3,7 @@
 # Overview of the analysis
 Before opening a surf and ice cream shop in Hawaii, an analysis of temperature trends is needed to understand the climate of the region. Specifically, temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
-# Results:
+# Results
 
 The results for June show:
 - The average temperature is 74.94 degrees 
@@ -19,7 +19,7 @@ The results for December show:
 
 ![December Summary Statistics](https://user-images.githubusercontent.com/103234661/184357859-ca1f3f3f-b73c-41cd-a981-2b54857b23c8.png)
 
-# Summary: 
+# Summary
 
 Based on our results, we can determine that opening a surf and ice cream shop shop in Oahu, Hawaii would be sustainable year-round. We came to this conclusion based on the weather data of a summer (June) and winter (December) months. The average temperature for both June and December are both fairly hot with averages of 74.94 degrees and 71.04 degrees respectively. Both month's temperature averages are very close to each other and each months standard deviation are also small and close to one anothers. This proves that there is little variance in temperatures between the summer and winter seasons and historically little variance of temperature within each month as well. 
 
